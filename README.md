@@ -2,7 +2,8 @@
 
 Spring Boot app
 
-API Urls:
+**API Urls:**
+
 
 **GET calls**
 
